@@ -6,6 +6,7 @@ Currently included projects are:
 used in a 3-week placement in the Bioinformatics Department of the award-winning John Innes Centre, Norwich (a summary of the
 work completed there included in the seq and machine-learning-on-sequence-data repositories of my GitHub)
 
-- Simple Dice Roller App developed while studying the Google 'Developing Android Apps in Kotlin' course. Skills gained in creating
-layouts and dynamic programming currently being used to develop an exam preparation app for GCSE Physics (using previous experience
-as a high school physics teacher).
+- Simple Dice Roller App developed while studying the Google 'Developing Android Apps in Kotlin' course.
+Compatability: API 19+ (use of vectorDrawables support library in order to display vector images on pre-API 21 devices)
+
+Skills gained in creating layouts and dynamic programming currently being used to develop an exam preparation app for GCSE Physics (using previous experience as a high school physics teacher) *Watch this space!*.
